@@ -1,6 +1,6 @@
-- How to test ?
+# How to test ?
 
-# Post
+- Post
 
 URL : http://localhost:8080/students
 Method : Post
@@ -9,7 +9,7 @@ Body : {
   "department": "Computer Science"
 }
 
-# Get
+- Get
 
 URL : http://localhost:8080/students
 Response : [
